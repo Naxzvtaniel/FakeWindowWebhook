@@ -1,0 +1,8 @@
+Tutorial of Editing the file
+1. Download file from releases.
+2. Right click the file and select edit option.
+3. Scroll down until you see "userInput = InputBox("Enter your password:", "Input Message")"
+4. In the "Enter your password:" type what ypu want user need to write.
+5. In the "Input message" type what you want to title the Window. (Like: "Windows Defenderer")
+6. On the left up corner select file - save as - "Name of your file" and at the end delete .txt and type vbs.
+And your file is ready! Remember to type the webhook to file work!
